@@ -1,5 +1,5 @@
-# FIZZBUZZ team
+# Team Fizzbuzz
 
-##How to start
+## How to start
 
 `$ python fizzbuzz.py`
