@@ -1,1 +1,1 @@
-# fizzbuzz-team
+# Team Fizzbuzz
